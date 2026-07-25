@@ -21,5 +21,9 @@ public class TTT {
         start.setAlignmentY(25);
         fr.add(start);
 
+        JButton Exit = new JButton("Exit");
+        Exit.setLocation(470, 250);
+        fr.add(Exit);
+
     }
 }

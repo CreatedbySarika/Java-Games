@@ -17,9 +17,7 @@ public class TTT {
         fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JButton start = new JButton("start");
-        start.setLocation(460, 750);
-        start.setAlignmentX(50);
-        start.setAlignmentY(25);
+        start.setLocation(460, 950);
         fr.add(start);
 
         JButton Exit = new JButton("Exit");

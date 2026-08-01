@@ -4,6 +4,7 @@ import java.awt.event.*;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import Math;
 
 public class RPS {
     public static void main(String[] args) {
